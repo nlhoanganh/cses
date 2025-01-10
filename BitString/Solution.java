@@ -1,3 +1,5 @@
+package BitString;
+
 import java.util.Scanner;
 
 public class Solution {
